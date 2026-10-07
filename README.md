@@ -4,7 +4,7 @@ Selamat datang di repositori fundamental pemrograman. Repositori ini dirancang u
 
 ## Daftar Materi
 
-*   **🐍 Python**: [Buka Materi Python](./python/) - Dari variabel hingga Object-Oriented Programming (OOP).
+*   **🐍 Python**: [Buka Materi Python](./Python/) - Dari variabel hingga Object-Oriented Programming (OOP).
 *   **🌐 JavaScript**: [Buka Materi JavaScript](./javascript/) - Menguasai DOM, ES6, hingga Asynchronous.
 *   **🐹 Go (Golang)**: [Buka Materi Go](./go/) - Belajar *statically typed*, *goroutines*, *pointers*, dan *interfaces*.
 *   **🐘 PHP**: [Buka Materi PHP](./php/) - Memahami *superglobals*, *arrays*, penanganan *form*, hingga OOP PHP.
