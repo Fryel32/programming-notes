@@ -36,7 +36,7 @@ Silakan pilih dan klik topik di bawah ini untuk membuka file dokumentasi materi:
 
 ---
 
-## 🚀 Cara Menggunakan Repositori Ini
+## Cara Menggunakan Repositori Ini
 
 * **Belajar Berurutan:** Jika Anda baru memulai, sangat disarankan untuk mengikuti materi berdasarkan nomor urut di atas.
 * **Praktek Langsung:** Buka terminal atau code editor (seperti VS Code) dan ketik ulang contoh kode yang ada untuk melatih *muscle memory*.
