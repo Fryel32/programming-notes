@@ -1,6 +1,6 @@
 # Programming Fundamentals
 
-Selamat datang di repositori fundamental pemrograman. Repositori ini dirancang untuk membantu menguasai konsep dasar pemrograman di berbagai bahasa dan algoritma.
+Selamat datang di repositori fundamental pemrograman buatan saya. Repositori ini dibuat untuk membantu menguasai konsep dasar pemrograman di berbagai bahasa dan algoritma.
 
 ## Daftar Materi
 
